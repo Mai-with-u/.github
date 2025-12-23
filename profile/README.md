@@ -56,7 +56,34 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/Mai-with-u/Maicraft">🎮 Maicraft</a></h3>
+      <p>麦麦玩 MC</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Mai-with-u/Maicraft?style=flat-square&label=Stars&color=7aa2f7" />
+        <img src="https://img.shields.io/github/forks/Mai-with-u/Maicraft?style=flat-square&label=Forks&color=9ece6a" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/Mai-with-u/Amaidesu">📺 Amaidesu</a></h3>
+      <p>麦麦当 VTuber</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Mai-with-u/Amaidesu?style=flat-square&label=Stars&color=7aa2f7" />
+        <img src="https://img.shields.io/github/forks/Mai-with-u/Amaidesu?style=flat-square&label=Forks&color=9ece6a" />
+      </p>
+    </td>
+  </tr>
 </table>
+
+<div align="center">
+  <h3><a href="https://github.com/Mai-with-u/docs">📚 Documentation</a></h3>
+  <p>麦麦文档仓库</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/Mai-with-u/docs?style=flat-square&label=Stars&color=7aa2f7" />
+    <img src="https://img.shields.io/github/forks/Mai-with-u/docs?style=flat-square&label=Forks&color=9ece6a" />
+  </p>
+</div>
 
 ### 🧩 扩展中心 | Plugin Center
 
@@ -82,7 +109,7 @@
 
 <!-- Language Stats for Core Repo -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-with-u&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai-with-u&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 👥 贡献者 | Contributors

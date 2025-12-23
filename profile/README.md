@@ -4,44 +4,44 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6,8,10,12,14,16,18,20,22,24,26,28,30&height=300&section=header&text=Mai-with-u&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Create%20Infinite%20Possibilities%20with%20MaiBot&descAlignY=55&descAlign=62&fontColor=ffffff)
 
 <!-- Typing effect introduction -->
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" align="center" valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=500&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots" alt="Typing SVG" />
-      </a>
-      <br/>
-      <br/>
-      <!-- Social/Contact Badges -->
-      <p align="center">
-        <a href="https://github.com/Mai-with-u">
-          <img src="https://img.shields.io/github/followers/Mai-with-u?label=Followers&style=social" alt="GitHub Followers" />
-        </a>
-        <a href="https://github.com/Mai-with-u/MaiBot">
-          <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=social" alt="GitHub Stars" />
-        </a>
-      </p>
-      <hr/>
-      <h3>🌟 核心项目 | Core Project</h3>
-      <div align="center">
-        <h3><a href="https://github.com/Mai-with-u/MaiBot">🤖 MaiBot</a></h3>
-        <p>我们的组织中心仓库，最核心的 QQ 机器人框架</p>
-        <p>
-          <a href="https://github.com/Mai-with-u/MaiBot/stargazers"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" alt="Stars"></a>
-          <a href="https://github.com/Mai-with-u/MaiBot/network/members"><img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" alt="Forks"></a>
-          <a href="https://github.com/Mai-with-u/MaiBot/issues"><img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" alt="Issues"></a>
-        </p>
-      </div>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- 看板娘位置 -->
-      <!-- 建议图片尺寸: 1536x2756 (透明背景) -->
-      <img src="assets/maimai.png" alt="MaiBot Kanban" width="100%" style="max-width: 300px;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=500&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
+
+<!-- Kanban Musume (Floating Right) -->
+<a href="https://github.com/Mai-with-u">
+  <img src="assets/maimai.png" align="right" width="280" alt="MaiBot Kanban" style="margin-left: 20px; margin-bottom: 20px;" />
+</a>
+
+<!-- Social/Contact Badges -->
+<p align="center">
+  <a href="https://github.com/Mai-with-u">
+    <img src="https://img.shields.io/github/followers/Mai-with-u?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Mai-with-u/MaiBot">
+    <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=social" alt="GitHub Stars" />
+  </a>
+</p>
+
+---
+
+### 🌟 核心项目 | Core Project
+
+<div align="center">
+  <h3><a href="https://github.com/Mai-with-u/MaiBot">🤖 MaiBot</a></h3>
+  <p>我们的组织中心仓库，最核心的 QQ 机器人框架</p>
+  <p>
+    <a href="https://github.com/Mai-with-u/MaiBot/stargazers"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" alt="Stars"></a>
+    <a href="https://github.com/Mai-with-u/MaiBot/network/members"><img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" alt="Forks"></a>
+    <a href="https://github.com/Mai-with-u/MaiBot/issues"><img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" alt="Issues"></a>
+  </p>
+</div>
+
+<br clear="all"/>
 <br/>
 
 ### 🛠️ 生态系统 | Ecosystem

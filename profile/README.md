@@ -6,7 +6,7 @@
 <!-- Typing effect introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=500&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=600&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots" alt="Typing SVG" />
   </a>
 </div>
 

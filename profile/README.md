@@ -14,7 +14,7 @@
 
 <!-- Kanban Musume (Floating Right) -->
 <a href="https://github.com/Mai-with-u">
-  <img src="assets/maimai.png" align="right" width="280" alt="MaiBot Kanban" style="margin-left: 20px; margin-bottom: 20px;" />
+  <img src="assets/maimai2.png" align="right" width="280" alt="MaiBot Kanban" style="margin-left: 20px; margin-bottom: 20px;" />
 </a>
 
 <!-- Social/Contact Badges -->

@@ -22,35 +22,52 @@
 
 ### 🌟 核心项目 | Core Project
 
-<a href="https://github.com/Mai-with-u/MaiBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mai-with-u&repo=MaiBot&theme=tokyonight&show_owner=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7dcfff" alt="MaiBot" />
-</a>
+<div align="center">
+  <h3><a href="https://github.com/Mai-with-u/MaiBot">🤖 MaiBot</a></h3>
+  <p>我们的组织中心仓库，最核心的 QQ 机器人框架</p>
+  <p>
+    <a href="https://github.com/Mai-with-u/MaiBot/stargazers"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" alt="Stars"></a>
+    <a href="https://github.com/Mai-with-u/MaiBot/network/members"><img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" alt="Forks"></a>
+    <a href="https://github.com/Mai-with-u/MaiBot/issues"><img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" alt="Issues"></a>
+  </p>
+</div>
 
 <br/>
 <br/>
 
 ### 🛠️ 生态系统 | Ecosystem
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Mai-with-u/MaiBot-Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mai-with-u&repo=MaiBot-Dashboard&theme=tokyonight&show_owner=true&hide_border=true" alt="MaiBot Dashboard" />
-      </a>
+      <h3><a href="https://github.com/Mai-with-u/MaiBot-Dashboard">🖥️ MaiBot Dashboard</a></h3>
+      <p>WebUI 管理面板</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-Dashboard?style=flat-square&label=Stars&color=7aa2f7" />
+        <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-Dashboard?style=flat-square&label=Forks&color=9ece6a" />
+      </p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Mai-with-u/MaiBot-Napcat-Adapter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mai-with-u&repo=MaiBot-Napcat-Adapter&theme=tokyonight&show_owner=true&hide_border=true" alt="MaiBot Napcat Adapter" />
-      </a>
+      <h3><a href="https://github.com/Mai-with-u/MaiBot-Napcat-Adapter">🔌 Napcat Adapter</a></h3>
+      <p>QQ 适配器组件</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-Napcat-Adapter?style=flat-square&label=Stars&color=7aa2f7" />
+        <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-Napcat-Adapter?style=flat-square&label=Forks&color=9ece6a" />
+      </p>
     </td>
   </tr>
 </table>
 
 ### 🧩 扩展中心 | Plugin Center
 
-<a href="https://github.com/Mai-with-u/plugin-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mai-with-u&repo=plugin-repo&theme=catppuccin_latte&show_owner=true" alt="Plugin Repo" />
-</a>
+<div align="center">
+  <h3><a href="https://github.com/Mai-with-u/plugin-repo">📦 Plugin Repo</a></h3>
+  <p>MaiBot 插件中心仓库</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/Mai-with-u/plugin-repo?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Mai-with-u/plugin-repo?style=social" alt="Forks">
+  </p>
+</div>
 
 ---
 

@@ -4,33 +4,42 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6,8,10,12,14,16,18,20,22,24,26,28,30&height=300&section=header&text=Mai-with-u&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Create%20Infinite%20Possibilities%20with%20MaiBot&descAlignY=55&descAlign=62&fontColor=ffffff)
 
 <!-- Typing effect introduction -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=500&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social/Contact Badges -->
-<p align="center">
-  <a href="https://github.com/Mai-with-u">
-    <img src="https://img.shields.io/github/followers/Mai-with-u?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Mai-with-u/MaiBot">
-    <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=social" alt="GitHub Stars" />
-  </a>
-</p>
-
----
-
-### 🌟 核心项目 | Core Project
-
-<div align="center">
-  <h3><a href="https://github.com/Mai-with-u/MaiBot">🤖 MaiBot</a></h3>
-  <p>我们的组织中心仓库，最核心的 QQ 机器人框架</p>
-  <p>
-    <a href="https://github.com/Mai-with-u/MaiBot/stargazers"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" alt="Stars"></a>
-    <a href="https://github.com/Mai-with-u/MaiBot/network/members"><img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" alt="Forks"></a>
-    <a href="https://github.com/Mai-with-u/MaiBot/issues"><img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" alt="Issues"></a>
-  </p>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" align="center" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=500&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots" alt="Typing SVG" />
+      </a>
+      <br/>
+      <br/>
+      <!-- Social/Contact Badges -->
+      <p align="center">
+        <a href="https://github.com/Mai-with-u">
+          <img src="https://img.shields.io/github/followers/Mai-with-u?label=Followers&style=social" alt="GitHub Followers" />
+        </a>
+        <a href="https://github.com/Mai-with-u/MaiBot">
+          <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=social" alt="GitHub Stars" />
+        </a>
+      </p>
+      <hr/>
+      <h3>🌟 核心项目 | Core Project</h3>
+      <div align="center">
+        <h3><a href="https://github.com/Mai-with-u/MaiBot">🤖 MaiBot</a></h3>
+        <p>我们的组织中心仓库，最核心的 QQ 机器人框架</p>
+        <p>
+          <a href="https://github.com/Mai-with-u/MaiBot/stargazers"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" alt="Stars"></a>
+          <a href="https://github.com/Mai-with-u/MaiBot/network/members"><img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" alt="Forks"></a>
+          <a href="https://github.com/Mai-with-u/MaiBot/issues"><img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" alt="Issues"></a>
+        </p>
+      </div>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <!-- 看板娘位置 -->
+      <!-- 建议图片尺寸: 1536x2756 (透明背景) -->
+      <img src="assets/maimai.png" alt="MaiBot Kanban" width="100%" style="max-width: 300px;" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
@@ -107,9 +116,11 @@
   <img src="https://img.shields.io/github/license/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=50fa7b" />
 </p>
 
-<!-- Language Stats for Core Repo -->
+### 🛠️ 技术栈 | Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai-with-u&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ### 👥 贡献者 | Contributors

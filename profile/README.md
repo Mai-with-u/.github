@@ -25,6 +25,15 @@
   <a href="https://github.com/Mai-with-u/MaiBot">
     <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=social" alt="GitHub Stars" />
   </a>
+  <a href="https://x.com/MaiWithYou">
+    <img src="https://img.shields.io/badge/Follow-000?style=social&logo=x" alt="X (Twitter)" />
+  </a>
+  <a href="https://discord.gg/UvgPVSVX">
+    <img src="https://img.shields.io/badge/Join-5865F2?style=social&logo=discord&logoColor=5865F2" alt="Discord" />
+  </a>
+  <a href="https://t.me/MaiWithYou">
+    <img src="https://img.shields.io/badge/Join-26A5E4?style=social&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+  </a>
 </p>
 
 ---

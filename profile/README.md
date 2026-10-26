@@ -1,150 +1,119 @@
 <div align="center">
 
-<!-- Header with dynamic wave background -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6,8,10,12,14,16,18,20,22,24,26,28,30&height=300&section=header&text=Mai-with-u&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Create%20Infinite%20Possibilities%20with%20MaiBot&descAlignY=55&descAlign=62&fontColor=ffffff)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-night.svg"><img src="assets/hero-day.svg" alt="Mai-with-u：Create Infinite Possibilities with MaiBot" width="100%"></picture>
 
-<!-- Typing effect introduction -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5D67E8&center=true&vCenter=true&width=600&lines=Welcome+to+Mai-with-u+Organization;Home+of+MaiBot;Powerful+QQ+Bot+Framework;Join+us+to+build+better+bots" alt="Typing SVG" />
-  </a>
-</div>
+<sub>Welcome to Mai-with-u Organization · Home of MaiBot · Powerful QQ Bot Framework · Join us to build better bots</sub>
 
-<br/>
-
-<!-- Kanban Musume (Floating Right) -->
-<a href="https://github.com/Mai-with-u">
-  <img src="assets/maimai2.png" align="right" width="280" alt="MaiBot Kanban" style="margin-left: 20px; margin-bottom: 20px;" />
-</a>
-
-<!-- Social/Contact Badges -->
-<p align="center">
-  <a href="https://github.com/Mai-with-u">
-    <img src="https://img.shields.io/github/followers/Mai-with-u?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Mai-with-u/MaiBot">
-    <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://x.com/MaiWithYou">
-    <img src="https://img.shields.io/badge/Follow-000?style=social&logo=x" alt="X (Twitter)" />
-  </a>
-  <a href="https://discord.gg/UvgPVSVX">
-    <img src="https://img.shields.io/badge/Join-5865F2?style=social&logo=discord&logoColor=5865F2" alt="Discord" />
-  </a>
-  <a href="https://t.me/MaiWithYou">
-    <img src="https://img.shields.io/badge/Join-26A5E4?style=social&logo=telegram&logoColor=26A5E4" alt="Telegram" />
-  </a>
+<p>
+  <a href="https://github.com/Mai-with-u"><img src="https://img.shields.io/github/followers/Mai-with-u?label=Followers&color=ffd84a&style=flat-square&labelColor=5a544a" alt="GitHub Followers"></a>
+  <a href="https://github.com/Mai-with-u/MaiBot"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="GitHub Stars"></a>
+  <a href="https://x.com/MaiWithYou"><img src="https://img.shields.io/badge/X-MaiWithYou-000?style=flat-square&logo=x" alt="X (Twitter)"></a>
+  <a href="https://discord.gg/UvgPVSVX"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/MaiWithYou"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
----
-
-### 🌟 核心项目 | Core Project
-
-<div align="center">
-  <h3><a href="https://github.com/Mai-with-u/MaiBot">🤖 MaiBot</a></h3>
-  <p>我们的组织中心仓库，最核心的 QQ 机器人框架</p>
-  <p>
-    <a href="https://github.com/Mai-with-u/MaiBot/stargazers"><img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" alt="Stars"></a>
-    <a href="https://github.com/Mai-with-u/MaiBot/network/members"><img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" alt="Forks"></a>
-    <a href="https://github.com/Mai-with-u/MaiBot/issues"><img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" alt="Issues"></a>
-  </p>
 </div>
 
-<br clear="all"/>
-<br/>
 
-### 🛠️ 生态系统 | Ecosystem
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-core-night.svg"><img src="assets/sec-core-day.svg" alt="核心项目 · CORE" width="100%"></picture>
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/Mai-with-u/MaiBot-Dashboard">🖥️ MaiBot Dashboard</a></h3>
-      <p>WebUI 管理面板</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-Dashboard?style=flat-square&label=Stars&color=7aa2f7" />
-        <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-Dashboard?style=flat-square&label=Forks&color=9ece6a" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/Mai-with-u/MaiBot-Napcat-Adapter">🔌 Napcat Adapter</a></h3>
-      <p>QQ 适配器组件</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-Napcat-Adapter?style=flat-square&label=Stars&color=7aa2f7" />
-        <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-Napcat-Adapter?style=flat-square&label=Forks&color=9ece6a" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/Mai-with-u/Maicraft">🎮 Maicraft</a></h3>
-      <p>麦麦玩 MC</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/Mai-with-u/Maicraft?style=flat-square&label=Stars&color=7aa2f7" />
-        <img src="https://img.shields.io/github/forks/Mai-with-u/Maicraft?style=flat-square&label=Forks&color=9ece6a" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/Mai-with-u/Amaidesu">📺 Amaidesu</a></h3>
-      <p>麦麦当 VTuber</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/Mai-with-u/Amaidesu?style=flat-square&label=Stars&color=7aa2f7" />
-        <img src="https://img.shields.io/github/forks/Mai-with-u/Amaidesu?style=flat-square&label=Forks&color=9ece6a" />
-      </p>
+    <td align="center" width="100%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-core-night.svg"><img src="assets/tag-core-day.svg" alt="CORE"></picture>
+      <h3><a href="https://github.com/Mai-with-u/MaiBot">MaiBot</a></h3>
+      我们的组织中心仓库，最核心的 QQ 机器人框架<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+      <img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?label=Issues&color=e5736b&style=flat-square&labelColor=5a544a" alt="Issues">
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <h3><a href="https://github.com/Mai-with-u/docs">📚 Documentation</a></h3>
-  <p>麦麦文档仓库</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/Mai-with-u/docs?style=flat-square&label=Stars&color=7aa2f7" />
-    <img src="https://img.shields.io/github/forks/Mai-with-u/docs?style=flat-square&label=Forks&color=9ece6a" />
-  </p>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-eco-night.svg"><img src="assets/sec-eco-day.svg" alt="生态系统 · ECOSYSTEM" width="100%"></picture>
 
-### 🧩 扩展中心 | Plugin Center
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-adapter-night.svg"><img src="assets/tag-adapter-day.svg" alt="ADAPTER"></picture>
+      <h3><a href="https://github.com/Mai-with-u/MaiBot-SnowLuma-Adapter">SnowLuma Adapter</a></h3>
+      QQ 适配器组件<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-SnowLuma-Adapter?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-SnowLuma-Adapter?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+    </td>
+    <td align="center" width="50%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-adapter-night.svg"><img src="assets/tag-adapter-day.svg" alt="ADAPTER"></picture>
+      <h3><a href="https://github.com/Mai-with-u/MaiBot-QQ-Adapter">QQ Adapter</a></h3>
+      QQ 官方平台适配器<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-QQ-Adapter?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-QQ-Adapter?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-mc-night.svg"><img src="assets/tag-mc-day.svg" alt="MINECRAFT"></picture>
+      <h3><a href="https://github.com/Mai-with-u/MaiCraftMod">MaiCraftMod</a></h3>
+      麦麦玩 MC<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/MaiCraftMod?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/MaiCraftMod?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+    </td>
+    <td align="center" width="50%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-vtuber-night.svg"><img src="assets/tag-vtuber-day.svg" alt="VTUBER"></picture>
+      <h3><a href="https://github.com/Mai-with-u/Amaidesu">Amaidesu</a></h3>
+      麦麦当 VTuber<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/Amaidesu?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/Amaidesu?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%" colspan="2">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-docs-night.svg"><img src="assets/tag-docs-day.svg" alt="DOCS"></picture>
+      <h3><a href="https://github.com/Mai-with-u/docs">Documentation</a></h3>
+      麦麦文档仓库<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/docs?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/docs?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <h3><a href="https://github.com/Mai-with-u/plugin-repo">📦 Plugin Repo</a></h3>
-  <p>MaiBot 插件中心仓库</p>
-  <p>
-    <img src="https://img.shields.io/github/stars/Mai-with-u/plugin-repo?style=social" alt="Stars">
-    <img src="https://img.shields.io/github/forks/Mai-with-u/plugin-repo?style=social" alt="Forks">
-  </p>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-plugin-night.svg"><img src="assets/sec-plugin-day.svg" alt="扩展中心 · PLUGINS" width="100%"></picture>
 
----
+<table width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-plugin-night.svg"><img src="assets/tag-plugin-day.svg" alt="PLUGINS"></picture>
+      <h3><a href="https://github.com/Mai-with-u/plugin-repo">Plugin Repo</a></h3>
+      MaiBot 插件中心仓库<br><br>
+      <img src="https://img.shields.io/github/stars/Mai-with-u/plugin-repo?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+      <img src="https://img.shields.io/github/forks/Mai-with-u/plugin-repo?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+    </td>
+  </tr>
+</table>
 
-### 📊 项目统计 | Statistics
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-stats-night.svg"><img src="assets/sec-stats-day.svg" alt="项目统计 · STATS" width="100%"></picture>
 
 <p align="center">
-  <img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ff5555" />
-  <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=ffb86c" />
-  <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=f1fa8c" />
-  <img src="https://img.shields.io/github/license/Mai-with-u/MaiBot?style=for-the-badge&logo=github&color=50fa7b" />
+  <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
+  <img src="https://img.shields.io/github/issues/Mai-with-u/MaiBot?label=Issues&color=e5736b&style=flat-square&labelColor=5a544a" alt="Issues">
+  <img src="https://img.shields.io/github/license/Mai-with-u/MaiBot?label=License&color=8fd6a0&style=flat-square&labelColor=5a544a" alt="License">
 </p>
 
-### 🛠️ 技术栈 | Tech Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-tech-night.svg"><img src="assets/sec-tech-day.svg" alt="技术栈 · TECH STACK" width="100%"></picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=5a544a" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=5a544a" alt="Docker">
 </p>
 
-### 👥 贡献者 | Contributors
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-contrib-night.svg"><img src="assets/sec-contrib-day.svg" alt="贡献者 · CONTRIBUTORS" width="100%"></picture>
 
 <p align="center">感谢所有为 MaiBot 做出贡献的开发者！</p>
 
-<a href="https://github.com/Mai-with-u/MaiBot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Mai-with-u/MaiBot" />
-</a>
-
-<br/>
-<br/>
+<p align="center">
+  <a href="https://github.com/Mai-with-u/MaiBot/graphs/contributors"><img src="https://contrib.rocks/image?repo=Mai-with-u/MaiBot" alt="Contributors"></a>
+</p>
 
 <div align="center">
-  <sub>Built with 💖 by <a href="https://github.com/Mai-with-u">Mai-with-u Team</a></sub>
-</div>
-
+  <sub>Built with love by <a href="https://github.com/Mai-with-u">Mai-with-u Team</a></sub>
 </div>

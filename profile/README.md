@@ -17,9 +17,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-core-night.svg"><img src="assets/sec-core-day.svg" alt="核心项目 · CORE" width="100%"></picture>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" valign="top" width="870">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-core-night.svg"><img src="assets/tag-core-day.svg" alt="CORE"></picture>
       <h3><a href="https://github.com/Mai-with-u/MaiBot">MaiBot</a></h3>
       我们的组织中心仓库，最核心的 QQ 机器人框架<br><br>
@@ -32,16 +32,16 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-eco-night.svg"><img src="assets/sec-eco-day.svg" alt="生态系统 · ECOSYSTEM" width="100%"></picture>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="430">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-adapter-night.svg"><img src="assets/tag-adapter-day.svg" alt="ADAPTER"></picture>
       <h3><a href="https://github.com/Mai-with-u/MaiBot-SnowLuma-Adapter">SnowLuma Adapter</a></h3>
       QQ 适配器组件<br><br>
       <img src="https://img.shields.io/github/stars/Mai-with-u/MaiBot-SnowLuma-Adapter?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
       <img src="https://img.shields.io/github/forks/Mai-with-u/MaiBot-SnowLuma-Adapter?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="430">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-adapter-night.svg"><img src="assets/tag-adapter-day.svg" alt="ADAPTER"></picture>
       <h3><a href="https://github.com/Mai-with-u/MaiBot-QQ-Adapter">QQ Adapter</a></h3>
       QQ 官方平台适配器<br><br>
@@ -50,14 +50,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="430">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-mc-night.svg"><img src="assets/tag-mc-day.svg" alt="MINECRAFT"></picture>
       <h3><a href="https://github.com/Mai-with-u/MaiCraftMod">MaiCraftMod</a></h3>
       麦麦玩 MC<br><br>
       <img src="https://img.shields.io/github/stars/Mai-with-u/MaiCraftMod?label=Stars&color=ffd84a&style=flat-square&labelColor=5a544a" alt="Stars">
       <img src="https://img.shields.io/github/forks/Mai-with-u/MaiCraftMod?label=Forks&color=f08a5d&style=flat-square&labelColor=5a544a" alt="Forks">
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="430">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-vtuber-night.svg"><img src="assets/tag-vtuber-day.svg" alt="VTUBER"></picture>
       <h3><a href="https://github.com/Mai-with-u/Amaidesu">Amaidesu</a></h3>
       麦麦当 VTuber<br><br>
@@ -66,7 +66,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%" colspan="2">
+    <td align="center" valign="top" colspan="2">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-docs-night.svg"><img src="assets/tag-docs-day.svg" alt="DOCS"></picture>
       <h3><a href="https://github.com/Mai-with-u/docs">Documentation</a></h3>
       麦麦文档仓库<br><br>
@@ -78,9 +78,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec-plugin-night.svg"><img src="assets/sec-plugin-day.svg" alt="扩展中心 · PLUGINS" width="100%"></picture>
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="100%">
+    <td align="center" valign="top" width="870">
       <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tag-plugin-night.svg"><img src="assets/tag-plugin-day.svg" alt="PLUGINS"></picture>
       <h3><a href="https://github.com/Mai-with-u/plugin-repo">Plugin Repo</a></h3>
       MaiBot 插件中心仓库<br><br>
